@@ -24,4 +24,4 @@ from analyfb_cover.collect.api import api
 # print(url)
 
 for posts in api.fb_fetch_posts('jtbcnews','2017-01-01','2017-12-31'):
-    print(posts)
+    print("posts:",posts)

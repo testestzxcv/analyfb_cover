@@ -2,7 +2,7 @@ from urllib.parse import urlencode
 from .web_request import json_request
 
 
-ACCESS_TOKEN = 'EAACEdEose0cBAJ2K86ZC1ayVNY2DVdWVu6iqTwQZAdLLdpLZBp21dSMdrGp4IcZBzoqT1X6kBUuWvjDr1hBOLoC4zSuTcrOenryfZA9gowGqudKUOzoqBZBKZCeoCSDS7vMZBWyAaXxAHLPxXJmMG2aUkhE6xFbNeBeD4ZCzV7h0dKOG89j9Y5Kir33edFypHdIYm1qZCi6ZCYqnZAzUcFtzWWSwbmqy0fMPy8MZD'
+ACCESS_TOKEN = 'EAACEdEose0cBAJ6a0Sm3CPcGiCrW1oduWNS699ZBcHLApe9iFYukDEI1SMaYOcHuhgJdGnBGkBHc5mNZBRuMmI6soZB09cVMuKo2rtdiisS2SzZAvehlRYVrk9P4xoUFBfMIqZBiFp6fZBixpo2ysPCGitGU8Cx6EzTqyWs3OopZBvDYXoZBGGsLPnXj0thl50TxNE09XHdogCNpmDWGrO56LfQPi1Q6F3EZD'
 BASE_URL_FB_API = 'https://graph.facebook.com/v3.0'
 
 def fb_gen_url(base=BASE_URL_FB_API, node='', **param):

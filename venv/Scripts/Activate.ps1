@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\core\Documents\PycharmProjects\analyfb_cover\venv"
+$env:VIRTUAL_ENV="D:\PycharmProjects\analyfb_cover\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name

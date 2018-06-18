@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\core\Documents\PycharmProjects\analyfb_cover\venv"
+VIRTUAL_ENV="D:\PycharmProjects\analyfb_cover\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

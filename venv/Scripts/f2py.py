@@ -1,4 +1,4 @@
-#!C:\Users\core\Documents\PycharmProjects\analyfb_cover\venv\Scripts\python.exe
+#!D:\PycharmProjects\analyfb_cover\venv\Scripts\python.exe
 # See http://cens.ioc.ee/projects/f2py2e/
 from __future__ import division, print_function
 

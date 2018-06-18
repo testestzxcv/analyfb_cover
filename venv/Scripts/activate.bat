@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Users\core\Documents\PycharmProjects\analyfb_cover\venv"
+set "VIRTUAL_ENV=D:\PycharmProjects\analyfb_cover\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
